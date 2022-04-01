@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Andrew (AJ) Miller - @ajlimler
-- 🌱 Currently learning Python, PowerShell, guitar, homesteading, and all things Windows that I can get my hands on.
-- 💻 Windows SysAdmin with a MCSA certification.
+- 🌱 Currently learning PowerShell, Python, guitar, homesteading, and all things server administration that I can get my hands on.
+- 💻 Windows SysAdmin
+- 🎓 Associate's degree in Cisco Networking Administration
+- 🏫 MSCA Certification
 - 📫 ajlimler@gmail.com // ajlimler.com
 
 <!---
