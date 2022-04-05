@@ -3,7 +3,8 @@
 - 💻 Windows SysAdmin
 - 🎓 Associate's degree in Cisco Networking Administration
 - 🏫 MSCA Certification
-- 📫 ajlimler@gmail.com // ajlimler.com
+- 🎻 Violinist
+- 📫 ajlimler@gmail.com // [ajlimler.com](https://ajlimler.com)
 
 <!---
 ajlimler/ajlimler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
